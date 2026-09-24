@@ -1,8 +1,0 @@
-{
-  "name": "bukne-archive",
-  "version": "1.0.0",
-  "private": true,
-  "description": "북내면, 마을마다 이야기 — 이야기 우체통 (Vercel Serverless + Upstash Redis)",
-  "type": "module",
-  "dependencies": { "@upstash/redis": "^1.34.0" }
-}
